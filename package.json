@@ -1,5 +1,5 @@
 {
-    "name": "ng4-tinymce-custom-tiposDispositipos",
+    "name": "ng4-tinymce-tipos-dispositipos",
     "description": "Pluguin para inserir dentro do contexto do menu no tinymce um campo select options",
     "readmeFilename": "README.md",
     "keywords": [
@@ -11,7 +11,7 @@
         "angular 4",
         "tinymce"
     ],
-    "version": "0.0.1",
+    "version": "0.0.3",
     "author": {
         "name": "Abel Lopes",
         "email": "abellopes@gmail.com",
